@@ -1,6 +1,6 @@
 import turtle
 
-#Kare yapımjı
+#Kare yapımı
 
 tahta=turtle.Screen()
 tahta.bgcolor("yellow")
