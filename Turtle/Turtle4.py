@@ -6,6 +6,7 @@ birsürükare=turtle.Screen()
 birsürükare.bgcolor("Orange")
 
 kareler = turtle.Turtle()
+kareler.hideturtle()
 kareler.speed(400)
 
 def içiçekare(size):
