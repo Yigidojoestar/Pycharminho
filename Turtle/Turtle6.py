@@ -7,6 +7,7 @@ annnd.bgcolor("Light Blue")
 annnd.title("Çember")
 
 çembo=turtle.Turtle()
+çembo.hideturtle()
 çembo.pencolor("Black")
 çembo.pensize(10)
 
