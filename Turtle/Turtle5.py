@@ -6,6 +6,7 @@ altınoran=turtle.Screen()
 turtle.bgcolor("Black")
 
 altın=turtle.Turtle()
+altın.hideturtle()
 altın.pencolor("Yellow")
 altın.speed(300)
 def altıninhıo(size):
