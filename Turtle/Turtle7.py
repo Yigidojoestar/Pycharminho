@@ -7,6 +7,7 @@ tahta.bgcolor("Black")
 tahta.title("İnteraktif Çiziminho Oyunu")
 
 interaktif=turtle.Turtle()
+interaktif.pensize(10)
 interaktif.pencolor("white")
 
 def ileri():
