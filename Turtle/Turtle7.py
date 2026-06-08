@@ -35,4 +35,5 @@ tahta.onkey(fun=çiz,key="Tab")
 tahta.onkey(fun=bırak,key="m")
 
 
+
 turtle.mainloop()
